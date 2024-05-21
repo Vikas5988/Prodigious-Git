@@ -1,0 +1,3 @@
+Welcome to GIT world
+
+GIT is VCSM tool
