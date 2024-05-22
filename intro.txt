@@ -1,3 +1,5 @@
 This is first message for Fresco course on Git.
 
 Enhancing GIT knowledge
+This course will increase T-Factor // line 3
+

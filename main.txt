@@ -1,3 +1,4 @@
 Welcome to GIT world
 
 GIT is VCSM tool
+GIT is open-source
